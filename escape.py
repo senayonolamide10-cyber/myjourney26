@@ -1,0 +1,1 @@
+print("my tech journey:\n\t-phyton\n\t-bash\n\t- sQL\n\t- django ")
