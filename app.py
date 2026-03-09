@@ -2,11 +2,11 @@
 # print("mary is learning python
 
 
-name ="praise"
-language ="c#"
+name = input("enter your name: ")
+language = input("preferred language: ")
 
 print("my name is",name)
-print(name,"is learning python")
+print(name,"is learning",language)
 print(name,"want to become a", language, "Expert")
 
 
